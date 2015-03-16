@@ -2,25 +2,24 @@ Documentação Oficial do Enterplan ERP
 
 Ferramentas:
 
-Linguagens:
-
-  Web
+  Linguagens:
   
-    Javascript
-    PHP
+    Web
+    
+      Javascript
+      PHP
+    
+    Auxiliares
+    
+      HTML
+      CSS
   
-  Auxiliares
+    Frameworks ou bibliotecas
+    
+    JQuery
   
-    HTML
-    CSS
-
-  Frameworks ou bibliotecas
   
-  JQuery
-
-
-Desktop
-
-  Ferramentas:
-    Indefinido
+    Desktop
+    
+      C++, Python
   
