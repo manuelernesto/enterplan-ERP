@@ -8,7 +8,7 @@
 * Responsáveis
 * [org]Organização
 
-[Organização](org/)
+[Organização](org)
 
 ##Licensa do Projeto:
 * Open-Source (sujeito a mudança)
@@ -54,7 +54,7 @@
   > * Eder Saulo
 
 
-[##Organização básica][org]
+(##Organização básica)[#org]
 
 ###1 - Layout
 
