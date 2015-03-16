@@ -52,6 +52,8 @@
   > * Lucas Vendramini
   > * Marcos Oliveira
   > * Paulo
+  > * Eduardo Ayres
+  > * Alexandre Martins
 
 * Validação Front End:
   > * Joel Marinho
