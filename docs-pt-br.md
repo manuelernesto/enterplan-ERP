@@ -8,7 +8,7 @@
 * Responsáveis
 * [org]Organização
 
-[Organização](http://example.com/#org "Organização")
+[Organização](#org)
 
 ##Licensa do Projeto:
 * Open-Source (sujeito a mudança)
