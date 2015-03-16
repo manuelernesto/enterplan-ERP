@@ -46,13 +46,13 @@
 
 **Organização básica:**
 
-1-Layout
+1 - Layout
 
-1.1 - Menu cadastro
+> 1.1 - Menu cadastro
 
-1.1.1 - Pessoas
+> 1.1.1 - Pessoas
 
-1.1.2 - Usuários
+> 1.1.2 - Usuários
 
 1.1.3 - Produtos
 
