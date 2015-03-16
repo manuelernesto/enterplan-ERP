@@ -23,3 +23,16 @@
   > Frameworks ou bibliotecas
     
   >> * JQuery
+
+
+**Responsáveis por Área:**
+
+* Administradores
+  > Rodrigo Adm
+  > Silvana Betoldo
+
+* Validação Back End:
+  > Lucas Vendramini
+  > Marcos Oliveira
+  > Paulo
+
