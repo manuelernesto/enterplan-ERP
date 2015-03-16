@@ -37,6 +37,7 @@
   > Frameworks ou bibliotecas
     
   >> * JQuery
+  >> * Bootstrap
 
 [Voltar ao índice](#ind)
 
