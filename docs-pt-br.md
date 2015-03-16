@@ -52,12 +52,12 @@
   > * Lucas Vendramini
   > * Marcos Oliveira
   > * Paulo
-  > * Eduardo Ayres
   > * Alexandre Martins
 
 * Validação Front End:
   > * Joel Marinho
   > * André Rodrigues
+  > * Eduardo Ayres
 
 * Modelagem de Banco de Dados:
   > * Eder Saulo
