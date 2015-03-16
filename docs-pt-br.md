@@ -9,8 +9,8 @@
   
   > Web
     
-      Javascript
-      PHP
+  >> Javascript
+  >> PHP
     
     Auxiliares
     
