@@ -46,7 +46,7 @@
 
 **Organização básica:**
 
-##1 - Layout
+####1 - Layout
 
 > 1.1 - Menu cadastro
 
@@ -72,8 +72,8 @@
 
 > (simples menu e com poucas funcionalidades para o sistema.... mas com as principais, produtos, clientes, usuario e relatorios) depois vem nota fiscal eletronica importação de certificado digital entre outras.
 
-##2 - Tela de venda ou frente de caixa 
+####2 - Tela de venda ou frente de caixa 
 
-##3-estrutura de dados (definição de campos de acordo com menu)
+####3-estrutura de dados (definição de campos de acordo com menu)
 
-##4-programação das funções predominantes.
+####4-programação das funções predominantes.
