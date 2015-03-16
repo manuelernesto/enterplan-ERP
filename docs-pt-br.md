@@ -65,6 +65,9 @@
 * Design:
   > * Leandro Miranda
 
+* Análise de Sistemas
+  > * Bruno Novais
+  
 [Voltar ao índice](#ind)
 
 <a name='org'></a>
