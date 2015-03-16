@@ -1,5 +1,15 @@
 #Documentação Oficial do Enterplan ERP
 
+##Índice
+
+* Licensa
+* Objetivo
+* Ferramentas
+* Responsáveis
+* [org]Organização
+
+
+
 ##Licensa do Projeto:
 * Open-Source (sujeito a mudança)
 
@@ -8,7 +18,7 @@
 
 ##Ferramentas:
 
-##Linguagens:
+###Linguagens:
   
   > Web
     
@@ -44,7 +54,7 @@
   > * Eder Saulo
 
 
-##Organização básica:
+[org]:##Organização básica:
 
 ###1 - Layout
 
