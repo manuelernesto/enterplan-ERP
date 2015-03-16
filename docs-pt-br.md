@@ -1,5 +1,5 @@
 #Documentação Oficial do Enterplan ERP
-
+<a name='ind'></a>
 ##Índice
 
 * [Licensa](#licensa)
@@ -17,7 +17,7 @@
 * Construir um ERP genérico, depois ir segmentando conforme a necessidade
 
 
-[Voltar ao índice](#Índice)
+[Voltar ao índice](#ind)
 
 <a name='ferramentas'></a>
 ##Ferramentas:
@@ -38,7 +38,7 @@
     
   >> * JQuery
 
-[Voltar ao índice](#Índice)
+[Voltar ao índice](#ind)
 
 <a name='responsaveis'></a>
 ##Responsáveis por Área:
@@ -59,7 +59,7 @@
 * Modelagem de Banco de Dados:
   > * Eder Saulo
 
-[Voltar ao índice](#Índice)
+[Voltar ao índice](#ind)
 
 <a name='org'></a>
 ##Organização básica
@@ -97,4 +97,4 @@
 
 ###4-programação das funções predominantes.
 
-[Voltar ao índice](#Índice)
+[Voltar ao índice](#ind)
