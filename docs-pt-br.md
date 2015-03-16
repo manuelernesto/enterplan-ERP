@@ -7,7 +7,7 @@
 
 * Linguagens:
   
-    Web
+  **  Web
     
       Javascript
       PHP
