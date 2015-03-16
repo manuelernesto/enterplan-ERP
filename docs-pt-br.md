@@ -10,7 +10,7 @@
 
 <a name='licensa'></a>
 ##Licensa do Projeto:
-* Open-Source (sujeito a mudança)
+* Comunitária - o projeto não pertence a uma pessoa particular, mas ao grupo o qual está inserido.
 
 <a name='obj'></a>
 ##Objetivo:
@@ -56,6 +56,8 @@
   > * Marcos Oliveira
   > * Paulo
   > * Alexandre Martins
+  > * Alan Albuquerque
+  > * Lamberto Maia
 
 * Validação Front End:
   > * Joel Marinho
