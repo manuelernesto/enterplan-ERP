@@ -12,17 +12,18 @@
   >> * Javascript
   >> * PHP
     
-    Auxiliares
+  > Auxiliares
     
-      HTML
-      CSS
+  >> * HTML
+  >> * CSS
   
-    Frameworks ou bibliotecas
+  > Frameworks ou bibliotecas
     
-    JQuery
+  >> * JQuery
   
   
-    Desktop
+  > Desktop
     
-      C++, Python
+  >> * C++
+  >> * Python
   
