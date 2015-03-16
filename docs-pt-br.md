@@ -1,7 +1,7 @@
 #Documentação Oficial do Enterplan ERP
 
-Objetivo:
-  Construir um ERP genérico, depois ir segmentando conforme as áreas necessárias
+**Objetivo:**
+*Construir um ERP genérico, depois ir segmentando conforme as áreas necessárias
 
 Ferramentas:
 
