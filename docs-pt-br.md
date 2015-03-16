@@ -38,6 +38,9 @@
     
   >> * JQuery
   >> * Bootstrap
+  >> * Laravel
+  >> * AngularJS
+  
 
 [Voltar ao índice](#ind)
 
