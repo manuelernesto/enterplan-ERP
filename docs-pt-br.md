@@ -8,7 +8,7 @@
 * Responsáveis
 * [org]Organização
 
-[Organização](org)
+[Organização](#org)
 
 ##Licensa do Projeto:
 * Open-Source (sujeito a mudança)
@@ -53,8 +53,8 @@
 * Modelagem de Banco de Dados:
   > * Eder Saulo
 
-
-(##Organização básica)[#org]
+<a name='org'></a>
+##Organização básica
 
 ###1 - Layout
 
