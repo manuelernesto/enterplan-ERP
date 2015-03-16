@@ -35,4 +35,9 @@
   > * Lucas Vendramini
   > * Marcos Oliveira
   > * Paulo
+* Validação Front End:
+  > * Joel Marinho
+  > * André Rodrigues
+* Modelagem de Banco de Dados:
+  > * Eder Saulo
 
