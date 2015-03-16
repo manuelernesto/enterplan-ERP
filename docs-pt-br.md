@@ -19,8 +19,6 @@
 <a name='ferramentas'></a>
 ##Ferramentas:
 
-[Voltar ao índice](#Índice)
-
 ###Linguagens:
   
   > Web
