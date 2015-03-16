@@ -3,9 +3,9 @@
 **Objetivo:**
 * Construir um ERP genérico, depois ir segmentando conforme as áreas necessárias
 
-Ferramentas:
+**Ferramentas:**
 
-  Linguagens:
+* Linguagens:
   
     Web
     
