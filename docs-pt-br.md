@@ -62,6 +62,9 @@
 * Modelagem de Banco de Dados:
   > * Eder Saulo
 
+* Design:
+  > * Leandro Miranda
+
 [Voltar ao índice](#ind)
 
 <a name='org'></a>
