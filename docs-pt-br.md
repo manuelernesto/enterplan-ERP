@@ -23,10 +23,3 @@
   > Frameworks ou bibliotecas
     
   >> * JQuery
-  
-  
-  > Desktop
-    
-  >> * C++
-  >> * Python
-  
