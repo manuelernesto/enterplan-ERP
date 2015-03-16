@@ -58,19 +58,19 @@
 
 > 1.2 - Menu financeiro
 
-> 1.2.1 - Contas a Receber
+>> 1.2.1 - Contas a Receber
 
-> 1.2.2 - Contas a Pagar
+>> 1.2.2 - Contas a Pagar
 
 > 1.3 - Relatório
 
-> 1.3.1 - Menu dropdown com os realatorios criados
+>> 1.3.1 - Menu dropdown com os realatorios criados
 
 > 1.4 - Configurações do sistema
 
-> 1.4.1 - Menu de configurações
+>> 1.4.1 - Menu de configurações
 
-> (simples menu e com poucas funcionalidades para o sistema.... mas com as principais, produtos, clientes, usuario e relatorios) depois vem nota fiscal eletronica importação de certificado digital entre outras.
+  (simples menu e com poucas funcionalidades para o sistema.... mas com as principais, produtos, clientes, usuario e     relatorios) depois vem nota fiscal eletronica importação de certificado digital entre outras.
 
 ####2 - Tela de venda ou frente de caixa 
 
