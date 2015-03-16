@@ -60,7 +60,7 @@
   > * Eduardo Ayres
 
 * Modelagem de Banco de Dados:
-  > * Eder Saulo
+  > * Eder Paulo
 
 * Design:
   > * Leandro Miranda
