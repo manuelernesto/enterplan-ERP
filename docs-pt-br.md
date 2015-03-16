@@ -32,7 +32,7 @@
   > Silvana Betoldo
 
 * Validação Back End:
-  > Lucas Vendramini
-  > Marcos Oliveira
-  > Paulo
+  > * Lucas Vendramini
+  > * Marcos Oliveira
+  > * Paulo
 
