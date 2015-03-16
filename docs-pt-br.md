@@ -2,20 +2,21 @@
 
 ##Índice
 
-* Licensa
-* Objetivo
-* Ferramentas
-* Responsáveis
-* [org]Organização
+* [Licensa](#licensa)
+* [Objetivo](#obj)
+* [Ferramentas](#ferramentas)
+* [Responsáveis](#responsaveis)
+* [Organização](#org)
 
-[Organização](#org)
-
+<a name='licensa'></a>
 ##Licensa do Projeto:
 * Open-Source (sujeito a mudança)
 
+<a name='obj'></a>
 ##Objetivo:
 * Construir um ERP genérico, depois ir segmentando conforme a necessidade
 
+<a name='ferramentas'></a>
 ##Ferramentas:
 
 ###Linguagens:
@@ -34,7 +35,7 @@
     
   >> * JQuery
 
-
+<a name='responsaveis'></a>
 ##Responsáveis por Área:
 
 * Administradores
@@ -55,6 +56,7 @@
 
 <a name='org'></a>
 ##Organização básica
+
 
 ###1 - Layout
 
