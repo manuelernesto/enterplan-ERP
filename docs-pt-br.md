@@ -28,8 +28,8 @@
 **Responsáveis por Área:**
 
 * Administradores
-  > Rodrigo Adm
-  > Silvana Betoldo
+  > * Rodrigo Adm
+  > * Silvana Betoldo
 
 * Validação Back End:
   > * Lucas Vendramini
