@@ -1,5 +1,8 @@
 #Documentação Oficial do Enterplan ERP
 
+**Licensa do Projeto:**
+* Open-Source (sujeito a mudança)
+
 **Objetivo:**
 * Construir um ERP genérico, depois ir segmentando conforme a necessidade
 
