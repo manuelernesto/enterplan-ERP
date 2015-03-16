@@ -8,7 +8,7 @@
 * Responsáveis
 * [org]Organização
 
-This is [an example](http://example.com/ "Title") inline link.
+[Organização](http://example.com/#org "Organização")
 
 ##Licensa do Projeto:
 * Open-Source (sujeito a mudança)
